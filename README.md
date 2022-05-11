@@ -1,12 +1,12 @@
 
-<p align="right">
+<p align="center">
   <img src="https://img.shields.io/badge/Platform-Telegram-blue" >
 </p>
 
 # Telegram password manager bot
 
 Бот разработан в обучающих целях и не рекоммендован для хранения настоящих данных.
-_________________________________
+
 <img src="images/hello.jpg" alt=''>
 
 ## Функционал бота
@@ -19,9 +19,9 @@ _________________________________
 
 Для управления используются inline-кнопки. Все пароли и данные пользователя хранятся в таблицах SQLite. Написан на python с исспользованием библиотеки aiogram.
 <p>
-    <img src="" alt='' align="left">
-    <img src="" alt='' align="center">
-    <img src="" alt='' align="right">
+    <img src="images/one.jpg" alt='' align="left">
+    <img src="images/three.jpg" alt='' align="center">
+    <img src="images/two.jpg" alt='' align="right">
 </p>
 
 ## Демонстрация
