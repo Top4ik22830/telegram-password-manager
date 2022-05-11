@@ -27,13 +27,9 @@
 ## Демонстрация
 
 <p align="center">
-    <img src="images/full.gif" alt='' width="30%">
-    <br>Основное меню
-</p>
-
-<p align="center">
-    <img src="images/file.gif" alt='' width="30%">
-    <br>Генерация таблицы данных
+    <img src="images/full.gif" alt='' width="45%">
+    <img src="images/file.gif" alt='' width="45%">
+    <br>Основное меню _______________ Генерация таблицы данных
 </p>
 
 ## Тест-драйв
