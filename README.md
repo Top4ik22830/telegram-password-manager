@@ -20,8 +20,8 @@
 Для управления используются inline-кнопки. Все пароли и данные пользователя хранятся в таблицах SQLite. Написан на python с исспользованием библиотеки aiogram.
 <p align="center">
     <img src="images/one.jpg" alt='' width="28%" height="28%">
-    <img src="images/three.jpg" alt='' width="28%" height="28%">
     <img src="images/two.jpg" alt='' width="28%" height="28%">
+    <img src="images/three.jpg" alt='' width="28%" height="28%">
 </p>
 
 ## Демонстрация
