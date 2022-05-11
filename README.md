@@ -26,13 +26,13 @@
 
 ## Демонстрация
 
-<p>
-    <img src="" alt='' align="center">
+<p align="center">
+    <img src="images/full.gif" alt='' width="30%">
     <br>Основное меню
 </p>
 
-<p>
-    <img src="" alt='' align="center">
+<p align="center">
+    <img src="images/file.gif" alt='' width="30%">
     <br>Генерация таблицы данных
 </p>
 
