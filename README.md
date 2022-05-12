@@ -45,7 +45,7 @@
 
 
 ## Файлы для деплоя
-При тестировании необходимо обновить runtime.txt до последней версии [python](https://www.python.org/).
+При деплое необходимо обновить runtime.txt до последней версии [python](https://www.python.org/).
  - [Все зависимости лежат тут](https://github.com/jonotyan/telegram-password-manager/blob/main/requirements.txt)
  - [Procfile](https://github.com/jonotyan/telegram-password-manager/blob/main/Procfile)
  - [Runtime](https://github.com/jonotyan/telegram-password-manager/blob/main/runtime.txt)
