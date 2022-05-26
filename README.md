@@ -27,8 +27,8 @@
 ## Демонстрация
 
 <p align="center">
-    <img src="images/full.gif" alt='' width="42%">
-    <img src="images/file.gif" alt='' width="42%">
+    <img src="images/full.gif" alt='' width="40%">
+    <img src="images/file.gif" alt='' width="40%">
     <br>Основное меню _____________________ Генерация таблицы данных
 </p>
 
